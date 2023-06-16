@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with: **Learning web development (Vue, Electron, TS for frontend & anything for backend)**
 
-- 📫 How to reach me **sirclashin** on discord
+- 📫 How to reach me: **sirclashin** on discord
 
 - ⚡ Fun fact: **I suck at coding**
 
