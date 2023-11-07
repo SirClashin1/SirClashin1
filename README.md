@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirclashin1&label=Profile%20views&color=0e75b6&style=flat" alt="sirclashin1" /> </p>
 
-- 🌱 I’m currently learning: **Vue, Electron, TypeScript**
-
-- 🤝 I’m looking for help with: **Learning web development (Vue, Electron, TS for frontend & anything for backend)**
+- 🌱 I’m currently learning: **A bit of data science/Machine learning**
 
 - 📫 How to reach me: **sirclashin** on discord
 
-- ⚡ Fun fact: **I suck at coding**
+*I suck at coding*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
