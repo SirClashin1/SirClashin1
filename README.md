@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SirClashin</h1>
+<h1 align="center">Hi 👋, I'm Willem</h1>
 <h3 align="center">Currently a high school student trying to become a better programmer, studying computer science next year</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirclashin1&label=Profile%20views&color=0e75b6&style=flat" alt="sirclashin1" /> </p>
