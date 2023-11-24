@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirclashin1&label=Profile%20views&color=0e75b6&style=flat" alt="sirclashin1" /> </p>
 
-- 🌱 I’m currently learning: **Anything**
+- 🌱 I’m currently learning: **A little bit of everything**
 
 - 📫 How to reach me: **sirclashin** on discord
 
