@@ -8,7 +8,7 @@
 -  How to reach me: **sirclashin** on discord
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/sirclashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirclashin"  # height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/sirclashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirclashin" height="30" width="40" /></a>
