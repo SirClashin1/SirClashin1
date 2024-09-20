@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Willem</h1>
-<h3 align="center">Currently a high school student trying to become a better programmer, studying computer science next year</h3>
+<h3 align="center">I am a first year Computer Science student interested in computer science and math.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirclashin1&label=Profile%20views&color=0e75b6&style=flat" alt="sirclashin1" /> </p>
 
-- 🌱 I’m currently learning: **A little bit of everything**
+-  I’m currently learning: **Python, C++, Java and R**
 
-- 📫 How to reach me: **sirclashin** on discord
+-  How to reach me: **sirclashin** on discord
 
-*I suck at coding*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
