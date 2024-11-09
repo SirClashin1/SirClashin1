@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirclashin1&label=Profile%20views&color=0e75b6&style=flat" alt="sirclashin1" /> </p>
 
--  I’m currently learning: **Python, C++, Java and R**
-
--  How to reach me: **sirclashin** on discord
+-  I’m currently learning: **Python, C++ and Java**
 
 
 <h3 align="left">Find me on:</h3>
